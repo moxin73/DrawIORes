@@ -1,1 +1,150 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T16:06:28.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.5.1" etag="n7aPwFIHrb1MXZ1tEVLU" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-25T16:58:20.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="FMvOHQGHdN7tjPT2bYtK" version="14.5.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="786" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="bAhNseAzFj9elFxGUeEz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="bAhNseAzFj9elFxGUeEz-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ViewRootImpl.WindowInputEventReceiver&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="150" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-0" target="bAhNseAzFj9elFxGUeEz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-0" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ViewPostImeInputStage.onProcess()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="240" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-4" value="监听事件最终传递到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="210" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="100" as="sourcePoint" />
+            <mxPoint x="430" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-5" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-5" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;用户输入行为，由硬件进行捕获，一般会保存在dev/input节点下，后续组装成KeyEvent/MotionEvent对象，经Native进入Java的InputEventReceiver.dispatchInputEvent()中。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;WindowInputEventReceiver是InputEventReceiver实现类。&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="40" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="bAhNseAzFj9elFxGUeEz-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="100" as="sourcePoint" />
+            <mxPoint x="430" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-9" target="bAhNseAzFj9elFxGUeEz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-9" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;processPointerEvent()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-12" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 12px; letter-spacing: 0.544px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;如果是触摸事件&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-13" target="bAhNseAzFj9elFxGUeEz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-13" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;mView.dispatchPointerEvent()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-0" target="bAhNseAzFj9elFxGUeEz-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-18" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;内部调用&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="370" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-19" target="bAhNseAzFj9elFxGUeEz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-19" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: , , , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; letter-spacing: 0.544px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;DecorView.dispatchTouchEvent()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-22" target="bAhNseAzFj9elFxGUeEz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-22" value="cb.dispatchTouchEvent(ev)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="570" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-24" value="方法执行&lt;br&gt;cb = mWindow.getCallback();" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="540" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-26" target="bAhNseAzFj9elFxGUeEz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-26" value="activity.diapatchTouchEvent()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="660" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-28" value="callBack即为Activity，attach时关联了PhoneWindow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="630" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-29" target="bAhNseAzFj9elFxGUeEz-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-29" value="getWindow().superDispatchTouchEvent(ev)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="750" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-31" target="bAhNseAzFj9elFxGUeEz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-31" value="mDecor.superDispatchTouchEvent(event);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="830" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-33" value="super.dispatchTouchEvent(event);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="920" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-35" value="这样就到了ViewGroup中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="194.5" y="980" width="251" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="bAhNseAzFj9elFxGUeEz-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-40" target="bAhNseAzFj9elFxGUeEz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-40" value="Activity" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-42" target="bAhNseAzFj9elFxGUeEz-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-42" value="PhoneWindow" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-44" target="bAhNseAzFj9elFxGUeEz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-44" value="DecorView" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="321.25" width="120" height="28.75" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-46" target="bAhNseAzFj9elFxGUeEz-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-46" value="ViewGroup" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="390" width="120" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-48" value="对应布局文件中的View" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="480" width="120" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-50" value="PhoneWindow" style="whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bAhNseAzFj9elFxGUeEz-51" target="bAhNseAzFj9elFxGUeEz-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bAhNseAzFj9elFxGUeEz-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;事件传递顺序是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="60" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
